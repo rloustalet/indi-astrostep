@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:leonardo",
+    "sketch": "focuser stepper.ino",
+    "programmer": "arduinoisp",
+    "port": "/dev/tty.usbmodem13201"
+}
